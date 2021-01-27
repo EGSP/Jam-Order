@@ -39,13 +39,13 @@
                 <e p="GameEventActionsController.cs" t="Include" />
                 <e p="GameEventActionVisual.cs" t="Include" />
                 <e p="GameEventVisual.cs" t="Include" />
+                <e p="IGameEventActionListener.cs" t="Include" />
               </e>
               <e p="Order" t="Include">
                 <e p="OrderMembersVisual.cs" t="Include" />
                 <e p="OrderReputationVisual.cs" t="Include" />
                 <e p="OrderVisualManager.cs" t="Include" />
               </e>
-              <e p="PointDownHandler.cs" t="Include" />
               <e p="Scenes" t="Include">
                 <e p="Preloader" t="Include">
                   <e p="GameStarter.cs" t="Include" />
@@ -183,12 +183,13 @@
                 <e p="IEventBus.cs" t="Include" />
               </e>
               <e p="EventContext" t="Include">
-                <e p="IEventContext.cs" t="Include" />
-                <e p="IEventContextEntity.cs" t="Include" />
+                <e p="IContext.cs" t="Include" />
+                <e p="IContextEntity.cs" t="Include" />
+                <e p="IContextEntityDetector.cs" t="Include" />
                 <e p="Mono" t="Include">
-                  <e p="AutoEventContext.cs" t="Include" />
-                  <e p="EventContext.cs" t="Include" />
-                  <e p="SerializedEventContext.cs" t="Include" />
+                  <e p="Context.cs" t="Include" />
+                  <e p="ContextMonoBehaviour.cs" t="Include" />
+                  <e p="SerializedContext.cs" t="Include" />
                 </e>
               </e>
             </e>
@@ -287,11 +288,20 @@
                 <e p="IContainer.cs" t="Include" />
                 <e p="TransformContainer.cs" t="Include" />
               </e>
+              <e p="Handlers" t="Include">
+                <e p="PointDownHandler.cs" t="Include" />
+              </e>
               <e p="Visuals" t="Include">
-                <e p="IContextVisual.cs" t="Include" />
+                <e p="Context" t="Include">
+                  <e p="ContextVisual.cs" t="Include" />
+                  <e p="IContextVisual.cs" t="Include" />
+                  <e p="View.cs" t="Include" />
+                </e>
                 <e p="IVisual.cs" t="Include" />
-                <e p="SerializedContextVisual.cs" t="Include" />
-                <e p="SerializedVisual.cs" t="Include" />
+                <e p="Odin" t="Include">
+                  <e p="SerializedContextVisual.cs" t="Include" />
+                  <e p="SerializedVisual.cs" t="Include" />
+                </e>
                 <e p="Visual.cs" t="Include" />
               </e>
             </e>

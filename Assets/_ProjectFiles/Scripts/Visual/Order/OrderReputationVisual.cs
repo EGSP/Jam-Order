@@ -2,9 +2,9 @@
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace Game.Visual
+namespace Game.Visuals
 {
-    public class OrderReputationVisual : Visual<OrderReputationVisual>
+    public class OrderReputationVisual : Visual
     {
         [SerializeField] private Slider slider;
 

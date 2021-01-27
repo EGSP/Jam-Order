@@ -5,14 +5,12 @@ using Game.GameEvents;
 using JetBrains.Annotations;
 using UnityEngine;
 
-namespace Game.Visual.GameEvents
+namespace Game.Visuals.GameEvents
 {
-    public class GameEventActionsController : MonoBehaviour
+    public class GameEventActionsController : ContextMonoBehaviour
     {
         [SerializeField] private TransformContainer actionsContainer;
         [SerializeField] private GameEventActionVisual actionVisualPrefab;
-        
-        public event Action<IGameEventAction> OnEventAction = delegate(IGameEventAction action) {  }; 
         
         public void Accept([NotNull] List<IGameEventAction> actions)
         {
@@ -22,18 +20,7 @@ namespace Game.Visual.GameEvents
                 var inst = actionsContainer.PutPrefab(actionVisualPrefab);
                 
                 inst.Accept(eventAction);
-                ListenAction(inst);
             }
-        }
-
-        public void ListenAction(GameEventActionVisual eventActionVisual)
-        {
-            eventActionVisual.OnClick += InvokeEvent;
-        }
-
-        private void InvokeEvent(IGameEventAction eventAction)
-        {
-            OnEventAction(eventAction);
         }
     }
 }

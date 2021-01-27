@@ -4,9 +4,9 @@ using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace Game.Visual.GameEvents
+namespace Game.Visuals.GameEvents
 {
-    public class GameEventVisual : Visual<GameEventVisual>
+    public class GameEventVisual : Visual
     {
         [SerializeField] private Image image;
         [SerializeField] private TMP_Text description;

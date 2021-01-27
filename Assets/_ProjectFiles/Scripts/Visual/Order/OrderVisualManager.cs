@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace Game.Visual
+namespace Game.Visuals
 {
     public class OrderVisualManager : MonoBehaviour
     {

@@ -1,27 +1,24 @@
-﻿using System;
-using Egsp.Core;
+﻿using Egsp.Core;
 using Egsp.Core.Ui;
 using Game.GameEvents;
 using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace Game.Visual.GameEvents
+namespace Game.Visuals.GameEvents
 {
-    public class GameEventActionVisual : Visual<GameEventActionVisual>
+    public class GameEventActionVisual : ContextVisual
     {
         [SerializeField] private TransformContainer effectsContainer;
         [SerializeField] private TMP_Text descriptionText;
 
         [SerializeField] private EffectVisual effectVisualPrefab;
 
-        private Button button;
-
-        public event Action<IGameEventAction> OnClick = delegate(IGameEventAction action) {  };
+        private Button _button;
 
         private void Awake()
         {
-            button = GetComponent<Button>();
+            _button = GetComponent<Button>();
         }
 
 
@@ -41,7 +38,12 @@ namespace Game.Visual.GameEvents
                 inst.Sprite = AssetStorage.Instance.GetSpriteById(effect.Id);
             }
 
-            button.onClick.AddListener(() => OnClick(eventAction));
+            _button.onClick.AddListener(() =>
+            {
+                Debug.Log("clicked");
+                Bus?.Raise<IGameEventActionListener>(
+                    x => x.OnEventAction(eventAction));
+            });
         }
     }
 }

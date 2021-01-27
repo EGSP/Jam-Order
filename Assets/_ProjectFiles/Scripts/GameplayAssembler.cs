@@ -2,7 +2,7 @@
 using Egsp.Core;
 using Game.GameEvents;
 
-using Game.Visual;
+using Game.Visuals;
 using Sirenix.OdinInspector;
 using Sirenix.Serialization;
 using UnityEngine;
@@ -51,7 +51,7 @@ namespace Game
             
             // Events
             gameEventManager.Order = order;
-            gameEventManager.OnEventAction += OnGameEventAction;
+            gameEventManager.OnGameEventAction += OnGameEventAction;
 
             // Start
             StartGame();

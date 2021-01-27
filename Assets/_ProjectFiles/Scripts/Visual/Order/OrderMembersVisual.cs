@@ -2,9 +2,9 @@
 using TMPro;
 using UnityEngine;
 
-namespace Game.Visual
+namespace Game.Visuals
 {
-    public class OrderMembersVisual : Visual<OrderMembersVisual>
+    public class OrderMembersVisual : Visual
     {
         [SerializeField] private TMP_Text membersCount;
 

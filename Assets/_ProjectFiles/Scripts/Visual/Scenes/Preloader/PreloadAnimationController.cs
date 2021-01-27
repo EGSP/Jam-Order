@@ -6,7 +6,7 @@ using Sirenix.Serialization;
 using TMPro;
 using UnityEngine;
 
-namespace Game.Visual.Scenes.Preloader
+namespace Game.Visuals.Scenes.Preloader
 {
     public class PreloadAnimationController : SerializedMonoBehaviour
     {

@@ -1,44 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="6c6d8cbe-bf3c-47bf-b896-a2507051dfca" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Assets/SubModules/Package-Unity/Ui/Visuals/Context/IContextVisual.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Order/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Order/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Order/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Order/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Order/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Order/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SubModules/Package-Unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SubModules/Package-Unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SubModules/Package-Unity/Events/EventContext/IEventContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SubModules/Package-Unity/Events/EventContext/IContext.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SubModules/Package-Unity/Events/EventContext/IEventContextEntity.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SubModules/Package-Unity/Events/EventContext/IContextEntity.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SubModules/Package-Unity/Events/EventContext/Mono/AutoEventContext.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SubModules/Package-Unity/Events/EventContext/Mono/EventContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SubModules/Package-Unity/Events/EventContext/Mono/Context.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SubModules/Package-Unity/Events/EventContext/Mono/SerializedEventContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SubModules/Package-Unity/Events/EventContext/Mono/SerializedContext.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SubModules/Package-Unity/Ui/Containers/IContainer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SubModules/Package-Unity/Ui/Containers/IContainer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SubModules/Package-Unity/Ui/Containers/TransformContainer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SubModules/Package-Unity/Ui/Containers/TransformContainer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SubModules/Package-Unity/Ui/Visuals/IContextVisual.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SubModules/Package-Unity/Ui/Visuals/IVisual.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SubModules/Package-Unity/Ui/Visuals/IVisual.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SubModules/Package-Unity/Ui/Visuals/SerializedContextVisual.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SubModules/Package-Unity/Ui/Visuals/Odin/SerializedContextVisual.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SubModules/Package-Unity/Ui/Visuals/SerializedVisual.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SubModules/Package-Unity/Ui/Visuals/Odin/SerializedVisual.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SubModules/Package-Unity/Ui/Visuals/Visual.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SubModules/Package-Unity/Ui/Visuals/Visual.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_ProjectFiles/Scenes/preload.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_ProjectFiles/Scenes/preload.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/GameEvents/GameEventManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/GameEvents/GameEventManager.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/GameplayAssembler.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/GameplayAssembler.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/Scene.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/Scene/Core.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/Scene/Core/Exceptions.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/Scene/Core/Exceptions/SceneParamsException.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/Scene/Core/Exceptions/SceneParamsException.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/Scene/Core/GameSceneManager.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/Scene/Core/GameSceneManager.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/Scene/Core/ISceneOperator.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/Scene/Core/ISceneOperator.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/Scene/Core/Objects.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/Scene/Core/Objects/SceneLoadRequest.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/Scene/Core/Objects/SceneLoadRequest.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/Scene/Core/Objects/SceneParams.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/Scene/Core/Objects/SceneParams.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/Scene/Core/Objects/SceneWrap.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/Scene/Core/Objects/SceneWrap.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/Scene/Core/SceneActivateAssistant.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/Scene/Core/SceneActivateAssistant.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/Scene/Core/SceneLoadAssistant.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/Scene/Core/SceneLoadAssistant.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/Scene/Mono.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/Scene/Mono/CallbackSceneOperator.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/Scene/Mono/CallbackSceneOperator.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/Scene/Mono/Odin.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/Scene/Mono/Odin/SceneInspectorParamsInjector.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/Scene/Mono/Odin/SceneInspectorParamsInjector.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/Scene/Mono/SceneParamsInjector.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/Scene/Mono/SceneParamsInjector.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/Visual/Containers/IContainer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/Visual/Containers/IContainer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/Visual/Containers/TransformContainer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/Visual/Containers/TransformContainer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/Visual/DayTimerVisualController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/Visual/DayTimerVisualController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/Visual/GameEvents/EffectVisual.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/Visual/GameEvents/EffectVisual.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/Visual/GameEvents/GameEventActionVisual.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/Visual/GameEvents/GameEventActionVisual.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/Visual/GameEvents/GameEventActionsController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/Visual/GameEvents/GameEventActionsController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/Visual/GameEvents/GameEventVisual.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/Visual/GameEvents/GameEventVisual.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/Visual/Order/OrderMembersVisual.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/Visual/Order/OrderMembersVisual.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/Visual/Order/OrderReputationVisual.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/Visual/Order/OrderReputationVisual.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/Visual/Order/OrderVisualManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/Visual/Order/OrderVisualManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/Visual/PointDownHandler.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/Visual/PointDownHandler.cs.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/Visual/Scenes/Preloader/GameStarter.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/Visual/Scenes/Preloader/GameStarter.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/Visual/Scenes/Preloader/PreloadAnimationController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/Visual/Scenes/Preloader/PreloadAnimationController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/Visual/Scenes/Preloader/TextFadeInOutTweener.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/Visual/Scenes/Preloader/TextFadeInOutTweener.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,50 +59,25 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Assets/SubModules/Package-Unity" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@2.1.1/Scripts/Runtime/TMP_Text.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4AF5BEA1-B7B2-4424-94FD-73F6F9B3D7F4/29/1f4adebd/Canvas.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://C:/Program Files/Unity/Hub/Editor/2019.4.11f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/UI/Core/Slider.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://C:/Program Files/Unity/Hub/Editor/2019.4.11f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/UI/Core/Selectable.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/DayTimer.cs" />
-        <option value="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/Visual/DayTimerVisualController.cs" />
-        <option value="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/Days/DayTimer.cs" />
-        <option value="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/Scene/Core/Exception/SceneParamsException.cs" />
-        <option value="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/Scene/Core/Mono/Odin/SceneInspectorParamsLoader.cs" />
-        <option value="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/Scene/Mono/SceneParamsInjecter.cs" />
-        <option value="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/Scene/Mono/Odin/SceneInspectorParamsInjector.cs" />
-        <option value="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/Visual/OrderVisualManager.cs" />
-        <option value="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/Visual/Order/OrderReputationVisual.cs" />
-        <option value="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/Visual/Order/OrderVisualManager.cs" />
-        <option value="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/Towns/Town.cs" />
-        <option value="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/GameEvents/Effect.cs" />
-        <option value="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/GameEvents/Effects/Realizations.cs" />
-        <option value="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/Visual/PointDownHandler.cs" />
-        <option value="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/Visual/Scenes/Preloader/FadeInOutTweener.cs" />
-        <option value="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/Visual/Scenes/Preloader/TextFadeInOutTweener.cs" />
-        <option value="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/Visual/Scenes/Preloader/PreloadAnimationController.cs" />
-        <option value="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/Scene/Core/Exceptions/SceneParamsException.cs" />
-        <option value="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/Scene/Core/Objects/SceneLoadRequest.cs" />
-        <option value="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/Scene/Core/GameSceneManager.cs" />
-        <option value="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/Scene/Core/SceneActivateAssistant.cs" />
-        <option value="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/Scene/Core/SceneLoadAssistant.cs" />
-        <option value="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/Visual/GameEvents/GameEventScriptable.cs" />
-        <option value="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/SpriteInfo.cs" />
         <option value="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/Order.cs" />
         <option value="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/AssetStorage.cs" />
-        <option value="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/Visual/GameEvents/GameEventVisual.cs" />
         <option value="$PROJECT_DIR$/Assets/_ProjectFiles/Visual/BlurEffect.cs" />
         <option value="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/GameEvents/Realizations/WitchHouseEvent.cs" />
         <option value="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/GameEvents/Realizations/GoddessHouseEvent.cs" />
         <option value="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/GameEvents/IGameEvent.cs" />
         <option value="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/GameEvents/Realizations/AbandonedMonasteryEvent.cs" />
         <option value="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/GameEvents/Realizations/GoddessVillageEvent.cs" />
-        <option value="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/GameEvents/GameEventManager.cs" />
         <option value="$PROJECT_DIR$/Assets/SubModules/Package-Unity/Engine/Scene/Core/Exceptions/SceneParamsException.cs" />
         <option value="$PROJECT_DIR$/Assets/SubModules/Package-Unity/Engine/Scene/Core/Objects/SceneLoadRequest.cs" />
         <option value="$PROJECT_DIR$/Assets/SubModules/Package-Unity/Engine/Scene/Core/Objects/SceneParams.cs" />
@@ -105,13 +93,41 @@
         <option value="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/Visual/Scenes/Preloader/GameStarter.cs" />
         <option value="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/Visual/Containers/TransformContainer.cs" />
         <option value="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/Visual/Containers/IContainer.cs" />
+        <option value="$PROJECT_DIR$/Assets/SubModules/Package-Unity/Ui/Visuals/IVisual.cs" />
+        <option value="$PROJECT_DIR$/Assets/SubModules/Package-Unity/Ui/Visuals/IContextVisual.cs" />
+        <option value="$PROJECT_DIR$/Assets/SubModules/Package-Unity/Ui/Visuals/SerializedVisual.cs" />
+        <option value="$PROJECT_DIR$/Assets/SubModules/Package-Unity/Ui/Visuals/SerializedContextVisual.cs" />
+        <option value="$PROJECT_DIR$/Assets/SubModules/Package-Unity/Ui/Visuals/Visual.cs" />
+        <option value="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/Visual/GameEvents/GameEventVisual.cs" />
+        <option value="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/Visual/GameEvents/EffectVisual.cs" />
+        <option value="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/Visual/Order/OrderMembersVisual.cs" />
+        <option value="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/Visual/Order/OrderReputationVisual.cs" />
+        <option value="$PROJECT_DIR$/Assets/SubModules/Package-Unity/Ui/Visuals/View.cs" />
+        <option value="$PROJECT_DIR$/Assets/SubModules/Package-Unity/Events/EventContext/IContextEntity.cs" />
+        <option value="$PROJECT_DIR$/Assets/SubModules/Package-Unity/Events/EventContext/Mono/AutoContext.cs" />
+        <option value="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/Visual/PointDownHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/SubModules/Package-Unity/Ui/Engine/Handlers/PointDownHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/SubModules/Package-Unity/Ui/Visuals/Odin/SerializedContextVisual.cs" />
+        <option value="$PROJECT_DIR$/Assets/SubModules/Package-Unity/Ui/Visuals/Context/ContextVisual.cs" />
+        <option value="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/Visual/GameEvents/IGameEventActionListener.cs" />
         <option value="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/Visual/GameEvents/GameEventActionsController.cs" />
+        <option value="$PROJECT_DIR$/Assets/SubModules/Package-Unity/Events/EventContext/IContextEntityDetector.cs" />
+        <option value="$PROJECT_DIR$/Assets/SubModules/Package-Unity/Events/EventContext/IContext.cs" />
+        <option value="$PROJECT_DIR$/Assets/SubModules/Package-Unity/Events/EventContext/Mono/ContextMonoBehaviour.cs" />
+        <option value="$PROJECT_DIR$/Assets/SubModules/Package-Unity/Events/EventContext/Mono/SerializedContext.cs" />
+        <option value="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/GameEvents/GameEventManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/SubModules/Package-Unity/Ui/Visuals/Context/View.cs" />
+        <option value="$PROJECT_DIR$/Assets/SubModules/Package-Unity/Ui/Containers/IContainer.cs" />
+        <option value="$PROJECT_DIR$/Assets/SubModules/Package-Unity/Ui/Containers/TransformContainer.cs" />
         <option value="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/Visual/GameEvents/GameEventActionVisual.cs" />
+        <option value="$PROJECT_DIR$/Assets/SubModules/Package-Unity/Events/EventContext/Mono/Context.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectId" id="1nT3buu7TS84YKhbUxQxlgzHlyr" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="autoscrollToSource" value="true" />
@@ -137,10 +153,10 @@
       </option>
       <method v="2" />
     </configuration>
-    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" ignored-value-for-modified-check="47944">
       <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
-      <option name="pid" />
+      <option name="pid" value="47944" />
       <option name="selectedOptions">
         <set />
       </option>
@@ -158,7 +174,8 @@
       <workItem from="1611400399614" duration="26302000" />
       <workItem from="1611487430900" duration="9279000" />
       <workItem from="1611508274125" duration="4943000" />
-      <workItem from="1611758676264" duration="888000" />
+      <workItem from="1611758676264" duration="2032000" />
+      <workItem from="1611772207018" duration="7619000" />
     </task>
     <servers />
   </component>
@@ -167,85 +184,129 @@
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="498" height="464" key="DebuggerActiveHint" timestamp="1611491253488">
+    <state width="498" height="464" key="DebuggerActiveHint" timestamp="1611780773995">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
-    <state width="498" height="464" key="DebuggerActiveHint/0.0.1858.1080@0.0.1858.1080" timestamp="1611491253488" />
-    <state width="1347" height="329" key="GridCell.Tab.0.bottom" timestamp="1611504640899">
+    <state width="498" height="464" key="DebuggerActiveHint/0.0.1858.1080@0.0.1858.1080" timestamp="1611780773995" />
+    <state width="1347" height="329" key="GridCell.Tab.0.bottom" timestamp="1611780984884">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
-    <state width="1347" height="329" key="GridCell.Tab.0.bottom/0.0.1858.1080@0.0.1858.1080" timestamp="1611504640899" />
-    <state width="1347" height="329" key="GridCell.Tab.0.center" timestamp="1611504640898">
+    <state width="1347" height="329" key="GridCell.Tab.0.bottom/0.0.1858.1080@0.0.1858.1080" timestamp="1611780984884" />
+    <state width="1347" height="329" key="GridCell.Tab.0.center" timestamp="1611780984884">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
-    <state width="1347" height="329" key="GridCell.Tab.0.center/0.0.1858.1080@0.0.1858.1080" timestamp="1611504640898" />
-    <state width="1347" height="329" key="GridCell.Tab.0.left" timestamp="1611504640898">
+    <state width="1347" height="329" key="GridCell.Tab.0.center/0.0.1858.1080@0.0.1858.1080" timestamp="1611780984884" />
+    <state width="1347" height="329" key="GridCell.Tab.0.left" timestamp="1611780984884">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
-    <state width="1347" height="329" key="GridCell.Tab.0.left/0.0.1858.1080@0.0.1858.1080" timestamp="1611504640898" />
-    <state width="1347" height="329" key="GridCell.Tab.0.right" timestamp="1611504640898">
+    <state width="1347" height="329" key="GridCell.Tab.0.left/0.0.1858.1080@0.0.1858.1080" timestamp="1611780984884" />
+    <state width="1347" height="329" key="GridCell.Tab.0.right" timestamp="1611780984884">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
-    <state width="1347" height="329" key="GridCell.Tab.0.right/0.0.1858.1080@0.0.1858.1080" timestamp="1611504640898" />
-    <state width="1347" height="329" key="GridCell.Tab.1.bottom" timestamp="1611504640899">
+    <state width="1347" height="329" key="GridCell.Tab.0.right/0.0.1858.1080@0.0.1858.1080" timestamp="1611780984884" />
+    <state width="1347" height="329" key="GridCell.Tab.1.bottom" timestamp="1611780984884">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
-    <state width="1347" height="329" key="GridCell.Tab.1.bottom/0.0.1858.1080@0.0.1858.1080" timestamp="1611504640899" />
-    <state width="1347" height="329" key="GridCell.Tab.1.center" timestamp="1611504640899">
+    <state width="1347" height="329" key="GridCell.Tab.1.bottom/0.0.1858.1080@0.0.1858.1080" timestamp="1611780984884" />
+    <state width="1347" height="329" key="GridCell.Tab.1.center" timestamp="1611780984884">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
-    <state width="1347" height="329" key="GridCell.Tab.1.center/0.0.1858.1080@0.0.1858.1080" timestamp="1611504640899" />
-    <state width="1347" height="329" key="GridCell.Tab.1.left" timestamp="1611504640899">
+    <state width="1347" height="329" key="GridCell.Tab.1.center/0.0.1858.1080@0.0.1858.1080" timestamp="1611780984884" />
+    <state width="1347" height="329" key="GridCell.Tab.1.left" timestamp="1611780984884">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
-    <state width="1347" height="329" key="GridCell.Tab.1.left/0.0.1858.1080@0.0.1858.1080" timestamp="1611504640899" />
-    <state width="1347" height="329" key="GridCell.Tab.1.right" timestamp="1611504640899">
+    <state width="1347" height="329" key="GridCell.Tab.1.left/0.0.1858.1080@0.0.1858.1080" timestamp="1611780984884" />
+    <state width="1347" height="329" key="GridCell.Tab.1.right" timestamp="1611780984884">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
-    <state width="1347" height="329" key="GridCell.Tab.1.right/0.0.1858.1080@0.0.1858.1080" timestamp="1611504640899" />
-    <state width="1347" height="329" key="GridCell.Tab.2.bottom" timestamp="1611504640900">
+    <state width="1347" height="329" key="GridCell.Tab.1.right/0.0.1858.1080@0.0.1858.1080" timestamp="1611780984884" />
+    <state width="1347" height="329" key="GridCell.Tab.2.bottom" timestamp="1611780984884">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
-    <state width="1347" height="329" key="GridCell.Tab.2.bottom/0.0.1858.1080@0.0.1858.1080" timestamp="1611504640900" />
-    <state width="1347" height="329" key="GridCell.Tab.2.center" timestamp="1611504640899">
+    <state width="1347" height="329" key="GridCell.Tab.2.bottom/0.0.1858.1080@0.0.1858.1080" timestamp="1611780984884" />
+    <state width="1347" height="329" key="GridCell.Tab.2.center" timestamp="1611780984884">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
-    <state width="1347" height="329" key="GridCell.Tab.2.center/0.0.1858.1080@0.0.1858.1080" timestamp="1611504640899" />
-    <state width="1347" height="329" key="GridCell.Tab.2.left" timestamp="1611504640899">
+    <state width="1347" height="329" key="GridCell.Tab.2.center/0.0.1858.1080@0.0.1858.1080" timestamp="1611780984884" />
+    <state width="1347" height="329" key="GridCell.Tab.2.left" timestamp="1611780984884">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
-    <state width="1347" height="329" key="GridCell.Tab.2.left/0.0.1858.1080@0.0.1858.1080" timestamp="1611504640899" />
-    <state width="1347" height="329" key="GridCell.Tab.2.right" timestamp="1611504640900">
+    <state width="1347" height="329" key="GridCell.Tab.2.left/0.0.1858.1080@0.0.1858.1080" timestamp="1611780984884" />
+    <state width="1347" height="329" key="GridCell.Tab.2.right" timestamp="1611780984884">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
-    <state width="1347" height="329" key="GridCell.Tab.2.right/0.0.1858.1080@0.0.1858.1080" timestamp="1611504640900" />
-    <state width="1347" height="329" key="GridCell.Tab.3.bottom" timestamp="1611504640900">
+    <state width="1347" height="329" key="GridCell.Tab.2.right/0.0.1858.1080@0.0.1858.1080" timestamp="1611780984884" />
+    <state width="1347" height="329" key="GridCell.Tab.3.bottom" timestamp="1611780984885">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
-    <state width="1347" height="329" key="GridCell.Tab.3.bottom/0.0.1858.1080@0.0.1858.1080" timestamp="1611504640900" />
-    <state width="1347" height="329" key="GridCell.Tab.3.center" timestamp="1611504640900">
+    <state width="1347" height="329" key="GridCell.Tab.3.bottom/0.0.1858.1080@0.0.1858.1080" timestamp="1611780984885" />
+    <state width="1347" height="329" key="GridCell.Tab.3.center" timestamp="1611780984884">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
-    <state width="1347" height="329" key="GridCell.Tab.3.center/0.0.1858.1080@0.0.1858.1080" timestamp="1611504640900" />
-    <state width="1347" height="329" key="GridCell.Tab.3.left" timestamp="1611504640900">
+    <state width="1347" height="329" key="GridCell.Tab.3.center/0.0.1858.1080@0.0.1858.1080" timestamp="1611780984884" />
+    <state width="1347" height="329" key="GridCell.Tab.3.left" timestamp="1611780984884">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
-    <state width="1347" height="329" key="GridCell.Tab.3.left/0.0.1858.1080@0.0.1858.1080" timestamp="1611504640900" />
-    <state width="1347" height="329" key="GridCell.Tab.3.right" timestamp="1611504640900">
+    <state width="1347" height="329" key="GridCell.Tab.3.left/0.0.1858.1080@0.0.1858.1080" timestamp="1611780984884" />
+    <state width="1347" height="329" key="GridCell.Tab.3.right" timestamp="1611780984884">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
-    <state width="1347" height="329" key="GridCell.Tab.3.right/0.0.1858.1080@0.0.1858.1080" timestamp="1611504640900" />
-    <state x="801" y="172" key="RiderGenerateDialog" timestamp="1611510083120">
+    <state width="1347" height="329" key="GridCell.Tab.3.right/0.0.1858.1080@0.0.1858.1080" timestamp="1611780984884" />
+    <state x="801" y="172" key="RiderGenerateDialog" timestamp="1611777727579">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
-    <state x="801" y="172" key="RiderGenerateDialog/0.0.1858.1080@0.0.1858.1080" timestamp="1611510083120" />
-    <state x="549" y="272" key="run.anything.popup" timestamp="1611443211066">
+    <state x="801" y="172" key="RiderGenerateDialog/0.0.1858.1080@0.0.1858.1080" timestamp="1611777727579" />
+    <state x="549" y="272" key="run.anything.popup" timestamp="1611759469006">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
-    <state x="549" y="272" key="run.anything.popup/0.0.1858.1080@0.0.1858.1080" timestamp="1611443211066" />
+    <state x="549" y="272" key="run.anything.popup/0.0.1858.1080@0.0.1858.1080" timestamp="1611759469006" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/Visual/GameEvents/GameEventActionVisual.cs</url>
+          <line>42</line>
+          <properties documentPath="D:\UProject\Jams\Order\Assets\_ProjectFiles\Scripts\Visual\GameEvents\GameEventActionVisual.cs" initialLine="42">
+            <startOffsets>
+              <option value="1124" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1145" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/Visual/GameEvents/GameEventActionsController.cs</url>
+          <line>18</line>
+          <properties documentPath="D:\UProject\Jams\Order\Assets\_ProjectFiles\Scripts\Visual\GameEvents\GameEventActionsController.cs" initialLine="18">
+            <startOffsets>
+              <option value="578" />
+            </startOffsets>
+            <endOffsets>
+              <option value="579" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

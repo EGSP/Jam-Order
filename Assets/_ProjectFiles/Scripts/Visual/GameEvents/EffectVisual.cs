@@ -2,9 +2,9 @@
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace Game.Visual.GameEvents
+namespace Game.Visuals.GameEvents
 {
-    public class EffectVisual : Visual<EffectVisual>
+    public class EffectVisual : Visual
     {
         [SerializeField] private Image image;
 

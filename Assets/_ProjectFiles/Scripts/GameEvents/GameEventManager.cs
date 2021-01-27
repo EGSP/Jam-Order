@@ -1,14 +1,14 @@
 ﻿using System;
 using System.Collections.Generic;
 using Egsp.Extensions.Linq;
-using Game.Visual.GameEvents;
+using Game.Visuals.GameEvents;
 using Sirenix.OdinInspector;
 using Sirenix.Serialization;
 using UnityEngine;
 
 namespace Game.GameEvents
 {
-    public class GameEventManager : SerializedMonoBehaviour
+    public class GameEventManager : SerializedMonoBehaviour, IGameEventActionListener
     {
         [SerializeField] private GameEventVisual gameEventVisual;
         [SerializeField] private GameEventActionsController gameEventActionsController;
@@ -17,11 +17,12 @@ namespace Game.GameEvents
         
         [OdinSerialize] public Order Order { get; set; }
 
-        public event Action<IGameEventAction> OnEventAction = delegate(IGameEventAction action) {  };
+        public event Action<IGameEventAction> OnGameEventAction = delegate(IGameEventAction action) {  };
 
-        private void Awake()
+        private void Start()
         {
-            gameEventActionsController.OnEventAction += OnGameEventAction;
+            gameEventActionsController.Bus?
+                .Subscribe<IGameEventActionListener>(this);
         }
 
         public IGameEvent GetRandomEvent()
@@ -49,17 +50,17 @@ namespace Game.GameEvents
             ShowGameEvent(GetRandomEvent());
         }
 
-        private void OnGameEventAction(IGameEventAction gea)
-        {
-            Debug.Log(gea.Description);
-            OnEventAction(gea);
-        }
-
         [Button]
         public void CloseGameEvent()
         {
             gameEventVisual.gameObject.SetActive(false);
             gameEventActionsController.gameObject.SetActive(false);
+        }
+
+        public void OnEventAction(IGameEventAction eventAction)
+        {
+            Debug.Log(eventAction.Description);
+            OnGameEventAction(eventAction);
         }
     }
 }

@@ -4,7 +4,7 @@ using Egsp.Other;
 using TMPro;
 using UnityEngine;
 
-namespace Game.Visual.Scenes.Preloader
+namespace Game.Visuals.Scenes.Preloader
 {
     [RequireComponent(typeof(TMP_Text))]
     public class TextFadeInOutTweener : MonoBehaviour

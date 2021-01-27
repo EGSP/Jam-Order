@@ -4,7 +4,7 @@ using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace Game.Visual.Scenes.Preloader
+namespace Game.Visuals.Scenes.Preloader
 {
     public class GameStarter : MonoBehaviour
     {
