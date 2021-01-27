@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\User\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\User\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_Order.-1625729662.00" t="ExcludeRecursive" />
+    <e p="D:\UProject\Order" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="_ProjectFiles" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="AssetStorage.cs" t="Include" />
+            <e p="Days" t="Include">
+              <e p="DayTimer.cs" t="Include" />
+            </e>
+            <e p="GameEvents" t="Include">
+              <e p="Effects" t="Include">
+                <e p="Effect.cs" t="Include" />
+                <e p="Realizations.cs" t="Include" />
+              </e>
+              <e p="GameEventManager.cs" t="Include" />
+              <e p="IGameEvent.cs" t="Include" />
+              <e p="Realizations" t="Include">
+                <e p="AbandonedMonasteryEvent.cs" t="Include" />
+                <e p="GoddessVillageEvent.cs" t="Include" />
+              </e>
+            </e>
+            <e p="GameplayAssembler.cs" t="Include" />
+            <e p="Order.cs" t="Include" />
+            <e p="Scene" t="Include">
+              <e p="Core" t="Include">
+                <e p="Exceptions" t="Include">
+                  <e p="SceneParamsException.cs" t="Include" />
+                </e>
+                <e p="GameSceneManager.cs" t="Include" />
+                <e p="ISceneOperator.cs" t="Include" />
+                <e p="Objects" t="Include">
+                  <e p="SceneLoadRequest.cs" t="Include" />
+                  <e p="SceneParams.cs" t="Include" />
+                  <e p="SceneWrap.cs" t="Include" />
+                </e>
+                <e p="SceneActivateAssistant.cs" t="Include" />
+                <e p="SceneLoadAssistant.cs" t="Include" />
+              </e>
+              <e p="Mono" t="Include">
+                <e p="CallbackSceneOperator.cs" t="Include" />
+                <e p="Odin" t="Include">
+                  <e p="SceneInspectorParamsInjector.cs" t="Include" />
+                </e>
+                <e p="SceneParamsInjector.cs" t="Include" />
+              </e>
+            </e>
+            <e p="SpriteInfo.cs" t="Include" />
+            <e p="Towns" t="Include">
+              <e p="Town.cs" t="Include" />
+            </e>
+            <e p="Visual" t="Include">
+              <e p="Containers" t="Include">
+                <e p="IContainer.cs" t="Include" />
+                <e p="TransformContainer.cs" t="Include" />
+              </e>
+              <e p="DayTimerVisualController.cs" t="Include" />
+              <e p="GameEvents" t="Include">
+                <e p="EffectVisual.cs" t="Include" />
+                <e p="GameEventActionsController.cs" t="Include" />
+                <e p="GameEventActionVisual.cs" t="Include" />
+                <e p="GameEventVisual.cs" t="Include" />
+              </e>
+              <e p="Order" t="Include">
+                <e p="OrderMembersVisual.cs" t="Include" />
+                <e p="OrderReputationVisual.cs" t="Include" />
+                <e p="OrderVisualManager.cs" t="Include" />
+              </e>
+              <e p="PointDownHandler.cs" t="Include" />
+              <e p="Scenes" t="Include">
+                <e p="Preloader" t="Include">
+                  <e p="GameStarter.cs" t="Include" />
+                  <e p="PreloadAnimationController.cs" t="Include" />
+                  <e p="TextFadeInOutTweener.cs" t="Include" />
+                </e>
+              </e>
+            </e>
+          </e>
+        </e>
+        <e p="Plugins" t="Include">
+          <e p="DOTween" t="Include">
+            <e p="Modules" t="Include">
+              <e p="DOTweenModuleAudio.cs" t="Include" />
+              <e p="DOTweenModulePhysics.cs" t="Include" />
+              <e p="DOTweenModulePhysics2D.cs" t="Include" />
+              <e p="DOTweenModuleSprite.cs" t="Include" />
+              <e p="DOTweenModuleUI.cs" t="Include" />
+              <e p="DOTweenModuleUnityVersion.cs" t="Include" />
+              <e p="DOTweenModuleUtils.cs" t="Include" />
+            </e>
+            <e p="readme.txt" t="Include" />
+          </e>
+          <e p="OdinCommunity" t="Include">
+            <e p="ScriptableWindowTree" t="Include">
+              <e p="Editor" t="Include">
+                <e p="ScriptableObjectCreator.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Sirenix" t="Include">
+            <e p="Assemblies" t="Include">
+              <e p="link.xml" t="Include" />
+              <e p="Sirenix.OdinInspector.Attributes.xml" t="Include" />
+              <e p="Sirenix.OdinInspector.Editor.xml" t="Include" />
+              <e p="Sirenix.Serialization.Config.xml" t="Include" />
+              <e p="Sirenix.Utilities.Editor.xml" t="Include" />
+              <e p="Sirenix.Utilities.xml" t="Include" />
+            </e>
+            <e p="Odin Inspector" t="Include">
+              <e p="Modules" t="Include">
+                <e p="Unity.Mathematics" t="Include">
+                  <e p="manifest.txt" t="Include" />
+                  <e p="MathematicsDrawers.cs" t="Include" />
+                  <e p="Sirenix.OdinInspector.Modules.UnityMathematics.asmdef" t="Include" />
+                </e>
+              </e>
+              <e p="Scripts" t="Include">
+                <e p="Editor" t="Include">
+                  <e p="AssemblyImportSettingsAutomation.cs" t="Include" />
+                  <e p="BuildAOTAutomation.cs" t="Include" />
+                  <e p="EnsureOdinInspectorDefine.cs" t="Include" />
+                  <e p="FixBrokenUnityObjectWrapperDrawer.cs" t="Include" />
+                  <e p="Sirenix.OdinInspector.CompatibilityLayer.Editor.asmdef" t="Include" />
+                  <e p="SyncListDrawer.cs" t="Include" />
+                  <e p="SyncVarAttributeDrawer.cs" t="Include" />
+                  <e p="Vector2IntMinMaxAttributeDrawer.cs" t="Include" />
+                  <e p="VectorIntDrawers.cs" t="Include" />
+                  <e p="VectorIntPropertyResolvers.cs" t="Include" />
+                </e>
+                <e p="SerializedNetworkBehaviour.cs" t="Include" />
+                <e p="Sirenix.OdinInspector.CompatibilityLayer.asmdef" t="Include" />
+                <e p="VectorIntFormatters.cs" t="Include" />
+              </e>
+            </e>
+            <e p="readme.txt" t="Include" />
+          </e>
+          <e p="TextMesh Pro" t="Include">
+            <e p="Fonts" t="Include">
+              <e p="LiberationSans - OFL.txt" t="Include" />
+            </e>
+            <e p="Resources" t="Include">
+              <e p="LineBreaking Following Characters.txt" t="Include" />
+              <e p="LineBreaking Leading Characters.txt" t="Include" />
+            </e>
+            <e p="Shaders" t="Include">
+              <e p="TMP_Bitmap-Custom-Atlas.shader" t="Include" />
+              <e p="TMP_Bitmap-Mobile.shader" t="Include" />
+              <e p="TMP_Bitmap.shader" t="Include" />
+              <e p="TMP_SDF Overlay.shader" t="Include" />
+              <e p="TMP_SDF SSD.shader" t="Include" />
+              <e p="TMP_SDF-Mobile Masking.shader" t="Include" />
+              <e p="TMP_SDF-Mobile Overlay.shader" t="Include" />
+              <e p="TMP_SDF-Mobile SSD.shader" t="Include" />
+              <e p="TMP_SDF-Mobile.shader" t="Include" />
+              <e p="TMP_SDF-Surface-Mobile.shader" t="Include" />
+              <e p="TMP_SDF-Surface.shader" t="Include" />
+              <e p="TMP_SDF.shader" t="Include" />
+              <e p="TMP_Sprite.shader" t="Include" />
+              <e p="TMPro.cginc" t="Include" />
+              <e p="TMPro_Mobile.cginc" t="Include" />
+              <e p="TMPro_Properties.cginc" t="Include" />
+              <e p="TMPro_Surface.cginc" t="Include" />
+            </e>
+            <e p="Sprites" t="Include">
+              <e p="EmojiOne Attribution.txt" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="SubModules" t="Include">
+          <e p="Package-Unity" t="Include">
+            <e p="Attributes" t="Include">
+              <e p="LazyInstanceAttribute.cs" t="Include" />
+            </e>
+            <e p="Events" t="Include">
+              <e p="CallBack.cs" t="Include" />
+              <e p="EventBus" t="Include">
+                <e p="CriticalEventBus.cs" t="Include" />
+                <e p="EventBus.cs" t="Include" />
+                <e p="IEventBus.cs" t="Include" />
+              </e>
+              <e p="EventContext" t="Include">
+                <e p="IEventContext.cs" t="Include" />
+                <e p="IEventContextEntity.cs" t="Include" />
+                <e p="Mono" t="Include">
+                  <e p="AutoEventContext.cs" t="Include" />
+                  <e p="EventContext.cs" t="Include" />
+                  <e p="SerializedEventContext.cs" t="Include" />
+                </e>
+              </e>
+            </e>
+            <e p="Exceptions" t="Include">
+              <e p="LazyInstanceException.cs" t="Include" />
+              <e p="SceneDuplicateException.cs" t="Include" />
+            </e>
+            <e p="Extensions" t="Include">
+              <e p="BoolExtensions.cs" t="Include" />
+              <e p="Collections" t="Include">
+                <e p="Grid.cs" t="Include" />
+                <e p="IGridLinkable.cs" t="Include" />
+                <e p="LinkedGrid.cs" t="Include" />
+              </e>
+              <e p="FloatExtensions.cs" t="Include" />
+              <e p="Graphs" t="Include">
+                <e p="2D" t="Include">
+                  <e p="Graph2DAdapter.cs" t="Include" />
+                  <e p="Vertex2D.cs" t="Include" />
+                  <e p="Vertex2DAdapter.cs" t="Include" />
+                </e>
+                <e p="Edge.cs" t="Include" />
+                <e p="Graph.cs" t="Include" />
+                <e p="GraphAdapter.cs" t="Include" />
+                <e p="Vertex.cs" t="Include" />
+                <e p="VertexAdapter.cs" t="Include" />
+              </e>
+              <e p="LinqExtensions.cs" t="Include" />
+              <e p="Mono" t="Include">
+                <e p="ComponentExtensions.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Files" t="Include">
+              <e p="Storage" t="Include">
+                <e p="DataProfile.cs" t="Include" />
+                <e p="DataProvider.cs" t="Include" />
+                <e p="PropertyFileProxy.cs" t="Include" />
+                <e p="Serializers" t="Include">
+                  <e p="ISerializer.cs" t="Include" />
+                  <e p="OdinSerializer.cs" t="Include" />
+                  <e p="UnitySerializer.cs" t="Include" />
+                </e>
+                <e p="Storage.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Other" t="Include">
+              <e p="Coroutiner.cs" t="Include" />
+              <e p="CurveHandler.cs" t="Include" />
+              <e p="HourTimer.cs" t="Include" />
+            </e>
+            <e p="Pathfinding" t="Include">
+              <e p="Alghoritms" t="Include">
+                <e p="Graph" t="Include">
+                  <e p="GraphPathFinder.cs" t="Include" />
+                </e>
+                <e p="LinkedJastar" t="Include">
+                  <e p="LinkedAPoint.cs" t="Include" />
+                  <e p="LinkedJastar.cs" t="Include" />
+                  <e p="LinkedPathNode.cs" t="Include" />
+                </e>
+              </e>
+              <e p="Core" t="Include">
+                <e p="IPath.cs" t="Include" />
+                <e p="IPathProvider.cs" t="Include" />
+                <e p="Path.cs" t="Include" />
+                <e p="PathFuncs.cs" t="Include" />
+                <e p="Response" t="Include">
+                  <e p="IPathResponse.cs" t="Include" />
+                  <e p="PathRequestToken.cs" t="Include" />
+                  <e p="PathResponse.cs" t="Include" />
+                  <e p="PathResponseSync.cs" t="Include" />
+                </e>
+              </e>
+            </e>
+            <e p="Pooling" t="Include">
+              <e p="IPoolContainer.cs" t="Include" />
+              <e p="IPoolContainerGeneric.cs" t="Include" />
+              <e p="IPoolObject.cs" t="Include" />
+              <e p="PoolManager.cs" t="Include" />
+              <e p="SinglePoolContainer.cs" t="Include" />
+            </e>
+            <e p="Random" t="Include">
+              <e p="RandomUtils.cs" t="Include" />
+              <e p="WeightedList.cs" t="Include" />
+            </e>
+            <e p="Rework" t="Include">
+              <e p="RandomList.cs" t="Include" />
+            </e>
+            <e p="Structure" t="Include">
+              <e p="SerializedSingleton.cs" t="Include" />
+              <e p="Singleton.cs" t="Include" />
+              <e p="SingletonRaw.cs" t="Include" />
+            </e>
+            <e p="Ui" t="Include">
+              <e p="INotifyChanged.cs" t="Include" />
+              <e p="IPresenter.cs" t="Include" />
+              <e p="IView.cs" t="Include" />
+              <e p="PresenterMediator.cs" t="Include" />
+              <e p="SerializedPresenter.cs" t="Include" />
+              <e p="SerializedView.cs" t="Include" />
+              <e p="ViewFactory.cs" t="Include" />
+              <e p="Visuals" t="Include">
+                <e p="IContextVisual.cs" t="Include" />
+                <e p="IVisual.cs" t="Include" />
+                <e p="SerializedContextVisual.cs" t="Include" />
+                <e p="SerializedVisual.cs" t="Include" />
+                <e p="Visual.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Utilities" t="Include">
+              <e p="GameObjectUtils.cs" t="Include" />
+              <e p="MathUtils.cs" t="Include" />
+              <e p="Mesh" t="Include">
+                <e p="MeshUtils.cs" t="Include" />
+                <e p="PropertyBlockProxy.cs" t="Include" />
+                <e p="RendererObject.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Order.sln" t="IncludeFlat" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Sirenix.OdinInspector.CompatibilityLayer.csproj" t="IncludeRecursive" />
+      <e p="Sirenix.OdinInspector.CompatibilityLayer.Editor.csproj" t="IncludeRecursive" />
+      <e p="Sirenix.OdinInspector.Modules.UnityMathematics.csproj" t="IncludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

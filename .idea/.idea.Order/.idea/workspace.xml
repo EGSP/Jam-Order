@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6c6d8cbe-bf3c-47bf-b896-a2507051dfca" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://C:/Program Files/Unity/Hub/Editor/2019.4.11f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/UI/Core/Slider.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@2.1.1/Scripts/Runtime/TMP_Text.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://C:/Program Files/Unity/Hub/Editor/2019.4.11f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/UI/Core/Selectable.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/Visual/DayTimerVisual.cs" />
+        <option value="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/DayTimer.cs" />
+        <option value="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/Visual/DayTimerVisualController.cs" />
+        <option value="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/Days/DayTimer.cs" />
+        <option value="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/Scene/Core/Exception/SceneParamsException.cs" />
+        <option value="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/Scene/Core/Mono/Odin/SceneInspectorParamsLoader.cs" />
+        <option value="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/Scene/Mono/SceneParamsInjecter.cs" />
+        <option value="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/Scene/Mono/Odin/SceneInspectorParamsInjector.cs" />
+        <option value="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/Visual/OrderVisualManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/Visual/Order/OrderReputationVisual.cs" />
+        <option value="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/Visual/Order/OrderVisualManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/Towns/Town.cs" />
+        <option value="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/GameEvents/Effect.cs" />
+        <option value="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/GameEvents/Effects/Realizations.cs" />
+        <option value="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/Visual/PointDownHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/Visual/Scenes/Preloader/FadeInOutTweener.cs" />
+        <option value="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/Visual/Scenes/Preloader/TextFadeInOutTweener.cs" />
+        <option value="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/Visual/Scenes/Preloader/PreloadAnimationController.cs" />
+        <option value="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/Visual/Scenes/Preloader/GameStarter.cs" />
+        <option value="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/Scene/Core/Exceptions/SceneParamsException.cs" />
+        <option value="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/Scene/Core/Objects/SceneLoadRequest.cs" />
+        <option value="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/Scene/Core/GameSceneManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/Scene/Core/SceneActivateAssistant.cs" />
+        <option value="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/Scene/Core/SceneLoadAssistant.cs" />
+        <option value="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/Visual/GameEvents/GameEventScriptable.cs" />
+        <option value="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/SpriteInfo.cs" />
+        <option value="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/Order.cs" />
+        <option value="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/AssetStorage.cs" />
+        <option value="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/Visual/GameEvents/GameEventVisual.cs" />
+        <option value="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/Visual/GameEvents/GameEventActionVisual.cs" />
+        <option value="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/Visual/GameEvents/GameEventActionsController.cs" />
+        <option value="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/GameplayAssembler.cs" />
+        <option value="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/GameEvents/GameEventManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/_ProjectFiles/Visual/BlurEffect.cs" />
+        <option value="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/GameEvents/Realizations/WitchHouseEvent.cs" />
+        <option value="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/GameEvents/Realizations/GoddessHouseEvent.cs" />
+        <option value="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/GameEvents/IGameEvent.cs" />
+        <option value="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/GameEvents/Realizations/AbandonedMonasteryEvent.cs" />
+        <option value="$PROJECT_DIR$/Assets/_ProjectFiles/Scripts/GameEvents/Realizations/GoddessVillageEvent.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1nT3buu7TS84YKhbUxQxlgzHlyr" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.38525835" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.30015197" />
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="XThreadsFramesViewSplitterKey" value="0.45454547" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6c6d8cbe-bf3c-47bf-b896-a2507051dfca" name="Default Changelist" comment="" />
+      <created>1611400382264</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611400382264</updated>
+      <workItem from="1611400399614" duration="26302000" />
+      <workItem from="1611487430900" duration="9279000" />
+      <workItem from="1611508274125" duration="4943000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="498" height="464" key="DebuggerActiveHint" timestamp="1611491253488">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="498" height="464" key="DebuggerActiveHint/0.0.1858.1080@0.0.1858.1080" timestamp="1611491253488" />
+    <state width="1347" height="329" key="GridCell.Tab.0.bottom" timestamp="1611504640899">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1347" height="329" key="GridCell.Tab.0.bottom/0.0.1858.1080@0.0.1858.1080" timestamp="1611504640899" />
+    <state width="1347" height="329" key="GridCell.Tab.0.center" timestamp="1611504640898">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1347" height="329" key="GridCell.Tab.0.center/0.0.1858.1080@0.0.1858.1080" timestamp="1611504640898" />
+    <state width="1347" height="329" key="GridCell.Tab.0.left" timestamp="1611504640898">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1347" height="329" key="GridCell.Tab.0.left/0.0.1858.1080@0.0.1858.1080" timestamp="1611504640898" />
+    <state width="1347" height="329" key="GridCell.Tab.0.right" timestamp="1611504640898">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1347" height="329" key="GridCell.Tab.0.right/0.0.1858.1080@0.0.1858.1080" timestamp="1611504640898" />
+    <state width="1347" height="329" key="GridCell.Tab.1.bottom" timestamp="1611504640899">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1347" height="329" key="GridCell.Tab.1.bottom/0.0.1858.1080@0.0.1858.1080" timestamp="1611504640899" />
+    <state width="1347" height="329" key="GridCell.Tab.1.center" timestamp="1611504640899">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1347" height="329" key="GridCell.Tab.1.center/0.0.1858.1080@0.0.1858.1080" timestamp="1611504640899" />
+    <state width="1347" height="329" key="GridCell.Tab.1.left" timestamp="1611504640899">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1347" height="329" key="GridCell.Tab.1.left/0.0.1858.1080@0.0.1858.1080" timestamp="1611504640899" />
+    <state width="1347" height="329" key="GridCell.Tab.1.right" timestamp="1611504640899">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1347" height="329" key="GridCell.Tab.1.right/0.0.1858.1080@0.0.1858.1080" timestamp="1611504640899" />
+    <state width="1347" height="329" key="GridCell.Tab.2.bottom" timestamp="1611504640900">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1347" height="329" key="GridCell.Tab.2.bottom/0.0.1858.1080@0.0.1858.1080" timestamp="1611504640900" />
+    <state width="1347" height="329" key="GridCell.Tab.2.center" timestamp="1611504640899">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1347" height="329" key="GridCell.Tab.2.center/0.0.1858.1080@0.0.1858.1080" timestamp="1611504640899" />
+    <state width="1347" height="329" key="GridCell.Tab.2.left" timestamp="1611504640899">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1347" height="329" key="GridCell.Tab.2.left/0.0.1858.1080@0.0.1858.1080" timestamp="1611504640899" />
+    <state width="1347" height="329" key="GridCell.Tab.2.right" timestamp="1611504640900">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1347" height="329" key="GridCell.Tab.2.right/0.0.1858.1080@0.0.1858.1080" timestamp="1611504640900" />
+    <state width="1347" height="329" key="GridCell.Tab.3.bottom" timestamp="1611504640900">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1347" height="329" key="GridCell.Tab.3.bottom/0.0.1858.1080@0.0.1858.1080" timestamp="1611504640900" />
+    <state width="1347" height="329" key="GridCell.Tab.3.center" timestamp="1611504640900">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1347" height="329" key="GridCell.Tab.3.center/0.0.1858.1080@0.0.1858.1080" timestamp="1611504640900" />
+    <state width="1347" height="329" key="GridCell.Tab.3.left" timestamp="1611504640900">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1347" height="329" key="GridCell.Tab.3.left/0.0.1858.1080@0.0.1858.1080" timestamp="1611504640900" />
+    <state width="1347" height="329" key="GridCell.Tab.3.right" timestamp="1611504640900">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1347" height="329" key="GridCell.Tab.3.right/0.0.1858.1080@0.0.1858.1080" timestamp="1611504640900" />
+    <state x="801" y="172" key="RiderGenerateDialog" timestamp="1611510083120">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="801" y="172" key="RiderGenerateDialog/0.0.1858.1080@0.0.1858.1080" timestamp="1611510083120" />
+    <state x="549" y="272" key="run.anything.popup" timestamp="1611443211066">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="549" y="272" key="run.anything.popup/0.0.1858.1080@0.0.1858.1080" timestamp="1611443211066" />
+  </component>
+</project>
