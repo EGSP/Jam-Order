@@ -1,7 +1,7 @@
 ﻿using System;
+using Egsp.Core;
 using Egsp.Core.Ui;
 using Game.GameEvents;
-using Game.Ui;
 using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
@@ -37,7 +37,7 @@ namespace Game.Visual.GameEvents
 
             foreach (var effect in effects)
             {
-                var inst = effectsContainer.Put(effectVisualPrefab);
+                var inst = effectsContainer.PutPrefab(effectVisualPrefab);
                 inst.Sprite = AssetStorage.Instance.GetSpriteById(effect.Id);
             }
 

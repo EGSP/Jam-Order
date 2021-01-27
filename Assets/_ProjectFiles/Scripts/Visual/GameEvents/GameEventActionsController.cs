@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
+using Egsp.Core;
 using Game.GameEvents;
-using Game.Ui;
 using JetBrains.Annotations;
 using UnityEngine;
 
@@ -19,7 +19,7 @@ namespace Game.Visual.GameEvents
             actionsContainer.Clear();
             foreach (var eventAction in actions)
             {
-                var inst = actionsContainer.Put(actionVisualPrefab);
+                var inst = actionsContainer.PutPrefab(actionVisualPrefab);
                 
                 inst.Accept(eventAction);
                 ListenAction(inst);

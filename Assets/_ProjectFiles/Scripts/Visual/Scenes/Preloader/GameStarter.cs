@@ -1,5 +1,5 @@
 ﻿using System;
-using Game.Scenes;
+using Egsp.Core;
 using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
